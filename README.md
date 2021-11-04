@@ -1,2 +1,2 @@
-# Portif-lio
-Saiba mais sobre mim por aqui.
+# Portifolio
+Projeto de um portifólio com informações pessoais, projetos e informações comerciais. 
